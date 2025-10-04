@@ -113,4 +113,4 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 
 ---
 
-Developed by **Fawl3r & F3 AI Industries**, this README highlights the advanced AI capabilities, design, and planned advancements of the **F3 Crypto AI Trading Bot**, showcasing its sophisticated decision-making and adaptability to handle the dynamic cryptocurrency market.
+Developed by **F3 AI Labs**, this README highlights the advanced AI capabilities, design, and planned advancements of the **F3 Crypto AI Trading Bot**, showcasing its sophisticated decision-making and adaptability to handle the dynamic cryptocurrency market.
