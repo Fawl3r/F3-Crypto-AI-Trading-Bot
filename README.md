@@ -1,6 +1,6 @@
 # F3 Crypto AI Trading Bot
 
-The **F3 Crypto AI Trading Bot**, developed by **Fawl3r & F3 AI Industries**, is an advanced, AI-powered cryptocurrency trading system focused on achieving optimal performance in the PEP/USDT market. Engineered with deep reinforcement learning (RL) algorithms, it dynamically adapts to real-time market changes and uses strategic risk management techniques to maximize profits. Its modular design and layered architecture provide a highly flexible framework that can be scaled and adapted to additional assets.
+The **F3 Crypto AI Trading Bot**, developed by **F3 AI Labs**, is an advanced, AI-powered cryptocurrency trading system focused on achieving optimal performance in the PEP/USDT market. Engineered with deep reinforcement learning (RL) algorithms, it dynamically adapts to real-time market changes and uses strategic risk management techniques to maximize profits. Its modular design and layered architecture provide a highly flexible framework that can be scaled and adapted to additional assets.
 
 ---
 
